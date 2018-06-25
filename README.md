@@ -18,4 +18,4 @@ Authenticate locally or through Facebook, Twitter or Google.
 * You will need a Mongo instance running. In a new terminal window run `mongod`
 * `node app`
 
-Head over to [http://localhost:3000](http://localhost:3000)
+Head over to [http://localhost:3030](http://localhost:3030)
